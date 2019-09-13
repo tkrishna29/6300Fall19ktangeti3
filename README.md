@@ -23,3 +23,12 @@ Ex: “Cat & Dog” shifted according to the Key Number 3 and Increment Number 2
 would be “Ffa & Mzt” (C+3, a+5, t+7, ‘ ‘, &, ‘ ‘, D+9, o+11, g+13).
 
 	To try this app,download the repository and run it using Android studio.
+
+### Implementation Instructions
+1. Download the project to your local system where you have Android studio software.
+2. Open the project using Andriod studio.
+3. Make sure you choose API:23 Android 6.0 Marshmallow as the minimum SDK.
+4. Run AVD Manager and download the virtual device that supports API 23 version.
+5. Build and run the app on the virtual device.
+6. In case you run into any issues while building the app, make sure you are running on correct version of API.
+7. For some sample test cases, refer to the test cases included in the project.
